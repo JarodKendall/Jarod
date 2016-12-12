@@ -1,0 +1,209 @@
+<div style="border:25px solid #408080"></div>
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Page Title</title>
+    </head>
+
+    <body>Test For Spoiler
+        <div id="spoiler" style="display:none">Spoiler Alert
+        </div>
+        <button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">See/Hide</button>
+
+        <br/>
+        <br/>
+        <br/>
+        <p><font size="50" color="#0099cc">El Guardabosque</font>
+        </p>
+
+        <br/>
+        <br/>
+        <p><b>THIS IS A BOLD TEST</b>
+        </p>
+
+        <br/>
+        <br/>
+        <br/>
+
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+
+
+
+
+
+
+
+        
+<span style="background-color: #ff0000">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #ff8000">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #00ff40">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #0d00ff">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #a500ff">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #cc33ff">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #cc33ff">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #a500ff">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #0d00ff">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #00ff40">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #ff8000">__________</span>
+
+        <br/>
+
+
+
+
+
+
+        
+<span style="background-color: #ff0000">__________</span>
+        <br/>
+        <br/>
+        <br/>
+
+
+
+
+
+
+
+        
+<h1>Test Text</h1>
+
+
+
+
+
+
+
+        
+<span style="text-decoration: underline;">The Jabberwocky Poem</span>
+    </body>‘Twas brillig, and the slithy toves Did gyre and gimble in the wabe; All mimsy were the borogoves, And the mome raths outgrabe. “Beware the Jabberwock, my son The jaws that bite, the claws that catch! Beware the Jubjub bird, and shun The frumious
+    Bandersnatch!” He took his vorpal sword in hand; Long time the manxome foe he sought— So rested he by the Tumtum tree, And stood awhile in thought. And, as in uffish thought he stood, The Jabberwock, with eyes of flame, Came whiffling through the
+    tulgey wood, And burbled as it came! One, two! One, two! And through and through The vorpal blade went snicker-snack! He left it dead, and with its head He went galumphing back. “And hast thou slain the Jabberwock? Come to my arms, my beamish boy!
+    O frabjous day! Callooh! Callay!” He chortled in his joy. ‘Twas brillig, and the slithy toves Did gyre and gimble in the wabe; All mimsy were the borogoves, And the mome raths outgrabe.</p>
+
+
+
+
+
+
+
+    
+<strike>Strike out Test</strike>
+
+    <br/>
+    <br/>
+
+
+
+
+
+
+
+    
+<span style="text-decoration: underline;">Test Underlined Text</span>
+
+    <br/>
+    <br/>
+    <p><font size="50" color="#afc133">Ian is gay</font>
+    </p>
+    <br/>
+    <br/>
+
+    </body>
+
+</html>
+<div style="border:25px solid #408080"></div>
